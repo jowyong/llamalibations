@@ -2720,6 +2720,7 @@ input[type="button"].btn-block {
   content: "\e078";
 }
 
+/*
 .glyphicon-chevron-left:before {
   content: "\e079";
 }
@@ -2727,6 +2728,7 @@ input[type="button"].btn-block {
 .glyphicon-chevron-right:before {
   content: "\e080";
 }
+*/
 
 .glyphicon-plus-sign:before {
   content: "\e081";
@@ -4182,8 +4184,9 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-brand {
   float: left;
+  font-family: "Trajan Pro";
   padding: 15px 15px;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 20px;
 }
 
@@ -6170,6 +6173,10 @@ body.modal-open,
 
 .carousel-caption .btn {
   text-shadow: none;
+}
+
+.darkfont {
+	color: #222;
 }
 
 @media screen and (min-width: 768px) {

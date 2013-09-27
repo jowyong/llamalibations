@@ -58,6 +58,10 @@ body {
   height: 500px;
 }
 
+.darkfont {
+	font-weight: bold;
+	color: #ggg;
+}
 
 
 /* MARKETING CONTENT
