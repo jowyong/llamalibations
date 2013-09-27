@@ -10,7 +10,7 @@
 //  Coded with: HTML5, CSS, Twitter Bootstrap, JQuery
 // 
 // 	Hosted & Deployed w/ Heroku: http://rocky-mountain-4479.herokuapp.com/ 
-//	GitHub Address: 
+//	GitHub Address: https://github.com/jowyong/llamalibations
 //
 //  *Note: I do not own any of the images! 
 // 
